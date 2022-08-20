@@ -11,7 +11,7 @@
   --main-transition: 0.3s;
 }
 html {
-  scroll-behavior: smooth;
+  /* scroll-behavior: smooth; */
 }
 body {
   margin: 0;
